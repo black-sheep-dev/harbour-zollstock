@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg144" width="512" height="512" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs115">
+  <linearGradient id="linearGradient568" x1="399.22" x2="399.87" y1="466.67" y2="507.86" gradientUnits="userSpaceOnUse">
+   <stop id="stop562" stop-color="#fff" offset="0"/>
+   <stop id="stop564" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect396" x="280" y="73.197" width="232" height="438" rx="9.4627" ry="8.2622" fill="url(#linearGradient568)"/>
+ <path id="path720" d="m280 438.01h64" fill="#2962ff" stroke="#ff1744" stroke-width="4"/>
+ <g id="g1786">
+  <path id="path96765" d="m24 0c-13.296 0-24 10.704-24 24v464c0 13.296 10.704 24 24 24h208c13.296 0 24-10.704 24-24v-464c0-13.296-10.704-24-24-24z" fill="#4d4d4d" stroke-dashoffset="1.5" stroke-linecap="round" stroke-width="2"/>
+  <g id="use74985" transform="translate(0,-66)">
+   <path id="path76291" d="m219 81h30" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76293" d="m234 87h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76295" d="m234 93h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76297" d="m234 99h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76299" d="m234 105h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76301" d="m230 111h20" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76303" d="m234 117h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76305" d="m234 123h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76307" d="m234 129h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76309" d="m234 135h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <text id="text76313" transform="rotate(90)" x="74.333321" y="-196.26042" fill="#ffffff" font-family="'Liberation Serif'" font-size="26.667px" font-weight="bold" style="line-height:1.25" xml:space="preserve"><tspan id="tspan76311" x="74.333321" y="-196.26042">0</tspan></text>
+  </g>
+  <g id="use74987" transform="translate(0,-6.2842)">
+   <path id="path76317" d="m219 81h30" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76319" d="m234 87h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76321" d="m234 93h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76323" d="m234 99h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76325" d="m234 105h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76327" d="m230 111h20" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76329" d="m234 117h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76331" d="m234 123h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76333" d="m234 129h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76335" d="m234 135h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <text id="text76339" transform="rotate(90)" x="74.333321" y="-196.26042" fill="#ffffff" font-family="'Liberation Serif'" font-size="26.667px" font-weight="bold" style="line-height:1.25" xml:space="preserve"><tspan id="tspan76337" x="74.333321" y="-196.26042">7</tspan></text>
+  </g>
+  <g id="use74989" transform="translate(0,53.432)">
+   <path id="path76343" d="m219 81h30" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76345" d="m234 87h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76347" d="m234 93h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76349" d="m234 99h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76351" d="m234 105h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76353" d="m230 111h20" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76355" d="m234 117h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76357" d="m234 123h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76359" d="m234 129h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76361" d="m234 135h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <text id="text76365" transform="rotate(90)" x="74.333321" y="-196.26042" fill="#ffffff" font-family="'Liberation Serif'" font-size="26.667px" font-weight="bold" style="line-height:1.25" xml:space="preserve"><tspan id="tspan76363" x="74.333321" y="-196.26042">8</tspan></text>
+  </g>
+  <g id="use74991" transform="translate(0,114.15)">
+   <path id="path76369" d="m219 81h30" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76371" d="m234 87h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76373" d="m234 93h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76375" d="m234 99h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76377" d="m234 105h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76379" d="m230 111h20" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76381" d="m234 117h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76383" d="m234 123h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76385" d="m234 129h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <path id="path76387" d="m234 135h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+   <text id="text76391" transform="rotate(90)" x="74.333321" y="-196.26042" fill="#ffffff" font-family="'Liberation Serif'" font-size="26.667px" font-weight="bold" style="line-height:1.25" xml:space="preserve"><tspan id="tspan76389" x="74.333321" y="-196.26042">9</tspan></text>
+  </g>
+  <path id="path76395" d="m219 255.86h30" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76397" d="m234 261.86h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76399" d="m234 267.86h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76401" d="m234 273.86h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76403" d="m234 279.86h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76405" d="m230 285.86h20" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76407" d="m234 291.86h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76409" d="m234 297.86h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76411" d="m234 303.86h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76413" d="m234 309.86h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <text id="text76417" transform="rotate(90)" x="241.97014" y="-196.26042" fill="#ffffff" font-family="'Liberation Serif'" font-size="26.667px" font-weight="bold" style="line-height:1.25" xml:space="preserve"><tspan id="tspan76415" x="241.97014" y="-196.26042">10</tspan></text>
+  <path id="path76421" d="m219 316.58h30" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76423" d="m234 322.58h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76425" d="m234 328.58h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76427" d="m234 334.58h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76429" d="m234 340.58h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76431" d="m230 346.58h20" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76433" d="m234 352.58h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76435" d="m234 358.58h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76437" d="m234 364.58h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76439" d="m234 370.58h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <text id="text76443" transform="rotate(90)" x="303.60394" y="-196.26042" fill="#ffffff" font-family="'Liberation Serif'" font-size="26.667px" font-weight="bold" style="line-height:1.25" xml:space="preserve"><tspan id="tspan76441" x="303.60394" y="-196.26042">11</tspan></text>
+  <path id="path76447" d="m219 377.3h30" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76449" d="m234 383.3h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76451" d="m234 389.3h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76453" d="m234 395.29h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76455" d="m234 401.29h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76457" d="m230 407.29h20" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76459" d="m234 413.29h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76461" d="m234 419.29h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76463" d="m234 425.29h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76465" d="m234 431.29h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <text id="text76469" transform="rotate(90)" x="363.46692" y="-196.26042" fill="#ffffff" font-family="'Liberation Serif'" font-size="26.667px" font-weight="bold" style="line-height:1.25" xml:space="preserve"><tspan id="tspan76467" x="363.46692" y="-196.26042">12</tspan></text>
+  <path id="path76473" d="m219 438.01h30" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76475" d="m234 444.01h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76477" d="m234 450.01h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76479" d="m234 456.01h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76481" d="m234 462.01h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76483" d="m230 468.01h20" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76485" d="m234 474.01h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76487" d="m234 480.01h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76489" d="m234 486.01h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <path id="path76491" d="m234 492.01h15" fill="#fff" stroke="#fff" stroke-width="2"/>
+  <text id="text76495" transform="rotate(90)" x="424.06558" y="-196.26042" fill="#ffffff" font-family="'Liberation Serif'" font-size="26.667px" font-weight="bold" style="line-height:1.25" xml:space="preserve"><tspan id="tspan76493" x="424.06558" y="-196.26042">13</tspan></text>
+  <path id="rect573" d="m24 0c-13.296 0-24 10.704-24 24v464c0 13.296 10.704 24 24 24h208c13.296 0 24-10.704 24-24v-464c0-13.296-10.704-24-24-24zm9.543 40h188.91c14.704 0 26.543 12.782 26.543 28.658v394.68c0 15.876-11.839 28.658-26.543 28.658h-188.91c-14.704 0-26.543-12.782-26.543-28.658v-394.68c0-15.876 11.839-28.658 26.543-28.658z" fill="#fff" stroke-dashoffset="1.5" stroke-linecap="round" stroke-width="2"/>
+  <circle id="path733" cx="222" cy="18" r="8" fill="#ccc"/>
+  <rect id="rect679" x="78" y="10" width="100" height="16" rx="8" ry="6.4" fill="#ccc"/>
+  <path id="path76601" d="m128 49.717c-13.436 0-24.428 10.66-24.973 23.965h-96.027v2h96.025c0.50932 13.338 11.515 24.035 24.975 24.035s24.465-10.697 24.975-24.035h96.025v-2h-96.027c-0.54512-13.305-11.536-23.965-24.973-23.965zm0 4c11.622 0 21 9.3784 21 21 0 11.622-9.3784 21-21 21s-21-9.3784-21-21c0-11.622 9.3784-21 21-21z" color="#000000" fill="#64b5f6" stroke-dashoffset="1.5" stroke-linecap="round"/>
+ </g>
+</svg>

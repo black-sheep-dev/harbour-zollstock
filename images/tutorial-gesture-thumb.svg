@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 839 839" style="enable-background:new 0 0 839 839;" xml:space="preserve">
+<g id="graphic-tutorial-gesture-thumb">
+	<g style="opacity:0;">
+		<rect id="graphic-tutorial-gesture-thumb_2_" x="0.53" y="0.53" style="fill:#FFFFFF;" width="839" height="839"/>
+		<path style="fill:#231F20;" d="M840.059,840.059H0V0h840.059V840.059z M1.06,839H839V1.06H1.06V839z"/>
+	</g>
+	
+		<radialGradient id="XMLID_2_" cx="426.6455" cy="421.2327" r="399.6326" gradientTransform="matrix(1.0004 0 0 1.0004 -1.4438 -0.3497)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.3302" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.9"/>
+	</radialGradient>
+	<path id="XMLID_53_" style="fill:url(#XMLID_2_);" d="M436.036,548.255c-83.826,10.081-160.358-84.433-164.514-97.821
+		c-4.156-13.388-68.153-116.354-86.523-127.695c-19.905-12.291-48.295-7.672-110.768-49.97
+		C11.758,230.47-8.976,180.74,6.234,134.278c15.21-46.463,123.139-3.007,142.517,1.552c19.378,4.559,98.277,10.908,117.057,27.222
+		c5.978,5.193,84.372,69.987,84.372,69.987c22.784,21.036,132.933,90.442,169.685,142.792
+		C557.278,429.121,535.87,536.249,436.036,548.255z"/>
+	<g id="XMLID_44_">
+		<rect x="419" y="404" style="fill:#231F20;" width="1" height="32"/>
+		<rect x="404" y="420" style="fill:#231F20;" width="32" height="1"/>
+	</g>
+</g>
+</svg>

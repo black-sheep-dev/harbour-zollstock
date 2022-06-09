@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-zollstock
+Exec=sailfish-qml harbour-zollstock
+Name=Zollstock
+Name[de]=Zollstock
+
+[X-Sailjail]
+# Replace with your organization as a reverse domain name
+OrganizationName=org.nubecula
+# ApplicationName does not have to be identical to Name
+ApplicationName=zollstock
+# Add the required permissions here
+Permissions=
