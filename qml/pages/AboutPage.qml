@@ -45,7 +45,7 @@ Page {
             Label {
                 width: parent.width
                 x : Theme.horizontalPageMargin
-                text: "0.1.0"
+                text: "0.1.1"
             }
 
             Label {
