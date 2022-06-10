@@ -111,7 +111,7 @@
     </message>
     <message id="id-reset-measurement-tools-desc2">
         <source>In the case of the first, this is reset to zero, in the case of the second, both are reset to their starting values.</source>
-        <translation type="unfinished">In the case of the first, this is reset to zero, in the case of the second, both are reset to their starting values.</translation>
+        <translation>In the case of the first, this is reset to zero, in the case of the second, both are reset to their starting values.</translation>
     </message>
     <message id="id-long-distance-desc1">
         <source>It is also possible to measure distances longer than the display size.</source>
