@@ -18,7 +18,7 @@ DISTFILES += qml/harbour-zollstock.qml \
     qml/pages/TutorialMeasurementToolsResetPage.qml \
     qml/qmldir \
     qml/tools/Helper.qml \
-    rpm/harbour-zollstock.changes.in \
+    rpm/harbour-zollstock.changes \
     rpm/harbour-zollstock.changes.run.in \
     rpm/harbour-zollstock.spec \
     rpm/harbour-zollstock.yaml \
