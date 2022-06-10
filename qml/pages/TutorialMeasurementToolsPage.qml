@@ -51,6 +51,11 @@ Dialog {
         }
 
         Item {
+            width: 1
+            height: Theme.paddingLarge
+        }
+
+        Item {
             id: zollstockSample
             width: parent.width
             height: Helper.millimeterToPixel(60)

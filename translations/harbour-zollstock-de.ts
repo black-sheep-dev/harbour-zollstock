@@ -87,7 +87,7 @@
     </message>
     <message id="id-reset-measurement-tools-desc2">
         <source>In the case of the first, this is reset to zero, in the case of the second, both are reset to their starting values.</source>
-        <translation>Man kann die Messwerkzeuge zurücksetzen, indem man sie doppelt antippt.</translation>
+        <translation>Beim ersten wird diese auf 0 zurückgesetzt, beim zweiten werden beide auf ihre Startwerte zurückgesetzt.</translation>
     </message>
     <message id="id-long-distance-desc1">
         <source>It is also possible to measure distances longer than the display size.</source>
