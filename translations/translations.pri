@@ -1,6 +1,7 @@
 TRANSLATIONS += \
     translations/harbour-zollstock.ts \
-    translations/harbour-zollstock-de.ts
+    translations/harbour-zollstock-de.ts \
+    translations/harbour-zollstock-hu.ts
 
 
 qm.input    = TRANSLATIONS

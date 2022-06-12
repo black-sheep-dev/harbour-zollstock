@@ -17,6 +17,7 @@ Available translations:
 
 - English
 - German
+- Hungarian (Szabó G.)
 
 If you missing your native language you are welcome to support this project with your translation.
 
