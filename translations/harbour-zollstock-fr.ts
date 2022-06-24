@@ -144,7 +144,7 @@
     </message>
     <message id="id-resetting-measurement">
         <source>Resetting measurement</source>
-        <translation>Réinitialisation de la mesure</translation>
+        <translation>Réinitialisation</translation>
     </message>
 </context>
 </TS>
