@@ -19,6 +19,7 @@ Available translations:
 - German
 - Hungarian (Szabó G.)
 - Polish ([PiotrD aka likot180](https://github.com/likot180))
+- French (lambda2501)
 
 If you missing your native language you are welcome to support this project with your translation.
 
