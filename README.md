@@ -12,6 +12,11 @@ Then use this app to get the job done.
 
 ![](http://weblate.nubecula.org/widgets/harbour-zollstock/-/harbour-zollstock/svg-badge.svg)
 
+## Accuracy
+The app uses the pixel density per millimeter reported by the device to calibrate the scale. It is possible to influence this with a scaling factor inside the settings.
+
+However, the overall accuray is determined by the pixel size. The larger a pixel, the worse the accuracy. The pixel density is a double value that is rounded for display.
+
 ## Translations
 Available translations:
 
@@ -20,6 +25,7 @@ Available translations:
 - Hungarian (Szabó G.)
 - Polish ([PiotrD aka likot180](https://github.com/likot180))
 - French (lambda2501)
+- Swedish (Tuomas F Nyqvist aka lumen)
 
 If you missing your native language you are welcome to support this project with your translation.
 
