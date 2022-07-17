@@ -13,6 +13,7 @@ DISTFILES += qml/harbour-zollstock.qml \
     qml/cover/CoverPage.qml \
     qml/pages/AboutPage.qml \
     qml/pages/MainPage.qml \
+    qml/pages/SettingsPage.qml \
     qml/pages/TutorialLongDistancePage.qml \
     qml/pages/TutorialMeasurementToolsPage.qml \
     qml/pages/TutorialMeasurementToolsResetPage.qml \

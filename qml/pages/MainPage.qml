@@ -28,10 +28,17 @@ Page {
                 text: qsTrId("id-about")
                 onClicked: pageStack.push(Qt.resolvedUrl("AboutPage.qml"))
             }
+
             MenuItem {
                 //% "Tutorial"
                 text: qsTrId("id-tutorial")
                 onClicked: pageStack.push(Qt.resolvedUrl("TutorialMeasurementToolsPage.qml"))
+            }
+
+            MenuItem {
+                //% "Settings"
+                text: qsTrId("id-settings")
+                onClicked: pageStack.push(Qt.resolvedUrl("SettingsPage.qml"))
             }
 
             MenuItem {
@@ -48,10 +55,10 @@ Page {
             id: zollstock
             anchors {
                 top: parent.top
-                topMargin: Helper.millimeterToPixel(10)
+                topMargin: Theme.itemSizeLarge
             }
             width: parent.width
-            height: Helper.millimeterToPixel(settings.maximumLength + 20)
+            height: Helper.millimeterToPixel(settings.maximumLength) + Theme.itemSizeLarge * 2
 
             PositionIndicatorItem {
                 id: firstIndicator

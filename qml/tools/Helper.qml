@@ -3,8 +3,10 @@ import QtQuick 2.0
 import QtQuick.Window 2.0
 
 QtObject {
+    property real scalingFactor: 1.0
+
     function millimeterToPixel(value) {
-        return Math.round(Screen.pixelDensity * value)
+        return Screen.pixelDensity * value * scalingFactor
     }
 
     function pixelPerMillimeter() {
@@ -12,10 +14,10 @@ QtObject {
     }
 
     function pixelToMillimeter(pixel) {
-        return Math.round(pixel / Screen.pixelDensity)
+        return pixel / (Screen.pixelDensity * scalingFactor)
     }
 
     function snapToMillimeter(pixel) {
-        return Math.round(pixel / Screen.pixelDensity)
+        return pixel / (Screen.pixelDensity * scalingFactor)
     }
 }

@@ -122,6 +122,26 @@
         <source>Resetting measurement</source>
         <translation>Setze Messung zurück</translation>
     </message>
+    <message id="id-settings">
+        <source>Settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message id="id-calibration">
+        <source>Calibration</source>
+        <translation>Kalibrierung</translation>
+    </message>
+    <message id="id-calibration-desc-1">
+        <source>This app uses the pixel density per millimeter reported by the device as the calibration for the scale.</source>
+        <translation>Diese App benutzt die Pixeldichte pro Millimeter welche vom Gerät gemeldet wird als Kalibrierung für den Massstab.</translation>
+    </message>
+    <message id="id-calibration-desc-2">
+        <source>You can change this with a scaling factor in the input field below.</source>
+        <translation>Du kannst das mit dem Eintragen eines Skalierungsfaktor im unteren Eingabefels verändern.</translation>
+    </message>
+    <message id="id-scaling-factor">
+        <source>Scaling factor</source>
+        <translation>Skalierungsfaktor</translation>
+    </message>
 </context>
 <context>
     <name>CoverPage</name>
