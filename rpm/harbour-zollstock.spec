@@ -9,7 +9,7 @@ Name:       harbour-zollstock
 # << macros
 
 Summary:    App to use your device as a ruler
-Version:    0.1.4
+Version:    0.2.0
 Release:    1
 Group:      Qt/Qt
 License:    GPLv2

@@ -1,3 +1,8 @@
+* Sun Jul 17 2022 Samuel Kron <blacksheep@nubecula.org> 0.2.0-1
+- Add Swedish translation by Tuomas F Nyqvist (lumen)
+- Add option to change the scaling factor
+- Improvements
+
 * Sat Jun 25 2022 Samuel Kron <blacksheep@nubecula.org> 0.1.4-1
 - Add French translation by lambda2501
 
