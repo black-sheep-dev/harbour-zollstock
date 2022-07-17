@@ -3,7 +3,8 @@ TRANSLATIONS += \
     translations/harbour-zollstock-de.ts \
     translations/harbour-zollstock-fr.ts \
     translations/harbour-zollstock-hu.ts \
-    translations/harbour-zollstock-pl.ts
+    translations/harbour-zollstock-pl.ts \
+    translations/harbour-zollstock-sv.ts
 
 
 
