@@ -148,7 +148,7 @@
     </message>
     <message id="id-settings">
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message id="id-calibration">
         <source>Calibration</source>
