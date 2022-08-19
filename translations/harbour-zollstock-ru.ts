@@ -5,7 +5,7 @@
     <name></name>
     <message id="id-app-name">
         <source>Zollstock</source>
-        <translation type="unfinished"></translation>
+        <translation>Линейка</translation>
     </message>
     <message id="id-about">
         <source>About</source>
