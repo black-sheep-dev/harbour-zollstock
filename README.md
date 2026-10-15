@@ -23,6 +23,7 @@ Available translations:
 - English
 - German
 - Hungarian (Szabó G.)
+- Dutch (Luus G. Hogerwaard)
 - Polish ([PiotrD aka likot180](https://github.com/likot180))
 - French (lambda2501)
 - Swedish (Tuomas F Nyqvist aka lumen)
